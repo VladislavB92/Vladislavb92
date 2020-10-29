@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**VladislavB92/Vladislavb92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hey, visitor, I'm Vlad!</h1>
 <h3 align="center">This is my repo where all evil (not so much) coding experiments are happening.</h3>
 
