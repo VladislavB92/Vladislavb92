@@ -3,7 +3,17 @@
 
 - I’m currently learning **Laravel and front-end frameworks,** but I'm growing fast 🌱 
 
-- You can check one of my best project <a href="https://github.com/VladislavB92/RPSLS">here</a>, which is done exclusively in plain PHP, HTML and CSS 
+- You can check some of my best projects:
+  
+   🟢  A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a>game with a twist which is done exclusively in plain PHP, HTML and CSS
+   
+   🔵  A <a href="https://github.com/VladislavB92/Narvesen-OOP">console based simulation</a> of customer - buyer relations where I demonstrate my early steps in          OOP.
+   
+   🟠  An <a href="https://github.com/VladislavB92/CODELEX">extensive collection</a> of various functional and OOP programming tasks created solely by me.
+   <a href="https://github.com/VladislavB92/CODELEX/blob/master/Homework_19.09./arrays/Exercise_6.php">
+  Here</a> you can find a text-based game "Hangman" where I demonstrate my skills of working with arrays.
+
+- 
 
 - You can reach me at **vladislavb92@gmail.com**
 
