@@ -1,9 +1,9 @@
 <h1 align="center">Hey, visitor, I'm Vlad!</h1>
 <h3 align="center">Welcome to my coding laboratory where all (evil) coding experiments are happening.</h3>
 
-- 🌱 I’m currently learning **Laravel and front-end frameworks.**
+- I’m currently learning **Laravel and front-end frameworks,** but I'm growing fast. 🌱 
 
-- 👨‍💻 All of my projects are available at [https://github.com/VladislavB92](https://github.com/VladislavB92)
+- You can check one of my best project <a href="https://github.com/VladislavB92/RPSLS">here</a>, which is done exclusively in plain PHP, HTML and CSS. 
 
 - You can reach me at **vladislavb92@gmail.com**
 
