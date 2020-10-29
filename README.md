@@ -13,7 +13,6 @@
    <a href="https://github.com/VladislavB92/CODELEX/blob/master/Homework_19.09./arrays/Exercise_6.php">
   Here</a> you can find a text-based game "Hangman" where I demonstrate my skills of working with arrays.
 
-- 
 
 - You can reach me at **vladislavb92@gmail.com**
 
