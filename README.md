@@ -1,5 +1,5 @@
 <h1 align="center">Hey, visitor, I'm Vlad!</h1>
-<h3 align="center">This is my repo where all evil (not so much) coding experiments are happening.</h3>
+<h3 align="center">Welcome to my coding laboratory where all (evil) coding experiments are happening.</h3>
 
 - 🌱 I’m currently learning **Laravel and front-end frameworks.**
 
