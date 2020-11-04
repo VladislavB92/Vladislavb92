@@ -5,7 +5,7 @@
 
 - You can check some of my best projects:
   
-   🟢  A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a>game with a twist which is done exclusively in plain PHP, HTML and CSS
+   🟢  A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a> game with a twist which is done exclusively in plain PHP, HTML and CSS
    
    🔵  A <a href="https://github.com/VladislavB92/Narvesen-OOP">console based simulation</a> of customer - buyer relations where I demonstrate my early steps in          OOP.
    
