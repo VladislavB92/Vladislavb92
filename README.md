@@ -7,11 +7,9 @@
   
    🟢  A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a> game with a twist which is done exclusively in plain PHP, HTML and CSS
    
-   🔵  A <a href="https://github.com/VladislavB92/Narvesen-OOP">console based simulation</a> of customer - buyer relations where I demonstrate my early steps in          OOP.
+   🔵  A <a href="https://github.com/VladislavB92/Yahoo-stock-viewer">Yahoo stock viewer</a> which pulls data from Yahoo stocks API, caching data in SQL database and updates stock data every 10 minutes. Extensive package usage. Made according to MVC patterns, including repositories and services.
    
-   🟠  An <a href="https://github.com/VladislavB92/CODELEX">extensive collection</a> of various functional and OOP programming tasks created solely by me.
-   <a href="https://github.com/VladislavB92/CODELEX/blob/master/Homework_19.09./arrays/Exercise_6.php">
-  Here</a> you can find a text-based game "Hangman" where I demonstrate my skills of working with arrays.
+   🟠  <a href="https://github.com/VladislavB92/codelex-blog">Codelex blog </a> is a small project which includes core mechanics of a blog/news page with functionalities such as post writing, publication and saving in a database; editing post; commenting and log in mechanics.
 
 
 - You can reach me at **vladislavb92@gmail.com**
