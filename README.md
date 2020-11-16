@@ -5,13 +5,13 @@
 
 - You can check some of my best projects:
   
-   🟢  A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a> game with a twist which is done exclusively in plain PHP, HTML and CSS
+   🔴  A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a> game with a twist which is done exclusively in plain PHP, HTML and CSS
    
-   🔵  A <a href="https://github.com/VladislavB92/Yahoo-stock-viewer">Yahoo stock viewer</a> which pulls data from Yahoo stocks API, caching data in SQL database and updates stock data every 10 minutes. Extensive package usage. Made according to MVC patterns, including repositories and services.
+   🟢  A <a href="https://github.com/VladislavB92/Yahoo-stock-viewer">Yahoo stock viewer</a> which pulls data from Yahoo stocks API, caching data in SQL database and updates stock data every 10 minutes. Extensive package usage. Made according to MVC patterns, including repositories and services.
    
-   🟠  <a href="https://github.com/VladislavB92/codelex-blog">Codelex blog </a> is a small project which includes core mechanics of a blog/news page with functionalities such as post writing, publication and saving in a database; editing post; commenting and log in mechanics.
+   🔵  <a href="https://github.com/VladislavB92/codelex-blog">Codelex blog </a> is a small project which includes core mechanics of a blog/news page with functionalities such as post writing, publication and saving in a database; editing post; commenting and log in mechanics.
    
-   ⚫️ A <a href="https://github.com/VladislavB92/Rick-and-Morty-API-app">simple React app </a> written in TypeScript which uses data from Rick and Morty API to display info about the characters of the popular animated tv-series. NPM packages are used.
+   🟣 A <a href="https://github.com/VladislavB92/Rick-and-Morty-API-app">simple React app </a> written in TypeScript which uses data from Rick and Morty API to display info about the characters of the popular animated tv-series. NPM packages are used.
 
 
 - You can reach me at **vladislavb92@gmail.com**
