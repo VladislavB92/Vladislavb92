@@ -12,6 +12,8 @@
    🔵  <a href="https://github.com/VladislavB92/codelex-blog">Codelex blog </a> is a small project which includes core mechanics of a blog/news page with functionalities such as post writing, publication and saving in a database; editing post; commenting and log in mechanics.
    
    🟣 A <a href="https://github.com/VladislavB92/Rick-and-Morty-API-app">simple React app </a> written in TypeScript which uses data from Rick and Morty API to display info about the characters of the popular animated tv-series. NPM packages are used.
+   
+   🟡 A <a href="https://github.com/VladislavB92/Quizzler-iOS">simple quizz-type game for iOS/iPadOS written natively with Swift</a>, guided by MVC pattern.
 
 
 - You can reach me at **vladislavb92@gmail.com**
