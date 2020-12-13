@@ -1,7 +1,7 @@
 <h1 align="center">Hey, visitor, I'm Vlad!</h1>
 <h3 align="center">Welcome to my coding laboratory where all (evil) coding experiments are happening</h3>
 
-- I’m currently learning **Laravel and front-end frameworks,** but I'm growing fast 🌱 
+- I have extensive experience with PHP and Laravel, as well as Swift, Python, JavaScript and TypeScript.
 
 - You can check some of my best projects:
 
