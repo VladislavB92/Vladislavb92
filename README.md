@@ -1,7 +1,7 @@
 <h1 align="center">Hey, visitor, I'm Vlad!</h1>
-<h3 align="center">Welcome to my coding laboratory where all (evil) coding experiments are happening</h3>
+<h3 align="center">Welcome to my coding laboratory where coding experiments are happening</h3>
 
-- I have extensive experience with PHP and Laravel, as well as Swift, Python, JavaScript and TypeScript.
+- I have extensive experience with Python abd Flask, as well as PHP and Laravel, Swift, JavaScript and TypeScript.
 
 - You can check some of my best projects:
 
