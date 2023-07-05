@@ -2,6 +2,8 @@
 <h3 align="center">Welcome to my coding laboratory where occasional coding experiments are happening</h3>
 
 - I have extensive experience with Python, Django, Django REST, Flask, microservices, as well as with PHP and Laravel, Swift, JavaScript and TypeScript.
+Also, my GitHub profile contains forks of some older Python libraries that were tailored and adapted for the newer Python (>3.9) and Django versions (4.x).
+
 
 - You can check some of my best projects:
 
