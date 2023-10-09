@@ -7,13 +7,13 @@ Also, my GitHub profile contains forks of some older Python libraries that were 
 
 - You can check some of my best projects:
 
+   🔴 [Postigen API](https://github.com/VladislavB92/postigen) and [Postigen-front](https://github.com/VladislavB92/postigen-front) is a simple full-stack parcel movement application, consisting build on Django and React with TypeScript.
+
    ⚪️ <a href="https://github.com/VladislavB92/hacker-view">Hacker-view</a> (HW) is a Flask based project that scraps the latest top-30 articles and lists them in a searchable datatable.
 
    🟠 <a href="https://github.com/VladislavB92/InteliBank">"InteliBank"</a> is a e-banking system written in PHP using Laravel framework. It simulates real-time transactions between accounts, currency conversations with two-factor authentication. Implements Jetstream, Tailwind CSS, events, services, repositories, xml parsing and scheduled cron jobs.
 
-     🟡 A <a href="https://github.com/VladislavB92/Quizzler-iOS">simple quizz-type game for iOS/iPadOS written natively with Swift</a>, guided by MVC pattern.
-
-   🔴 A <a href="https://github.com/VladislavB92/Yahoo-stock-viewer">Yahoo stock viewer</a> which pulls data from Yahoo stocks API, caching data in SQL database and updates stock data every 10 minutes. Extensive package usage. Made according to MVC patterns, including repositories and services.
+   🟡 A <a href="https://github.com/VladislavB92/Quizzler-iOS">simple quizz-type game for iOS/iPadOS written natively with Swift</a>, guided by MVC pattern.
   
    🟢 A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a> game with a twist which is done exclusively in plain PHP, HTML and CSS
 
