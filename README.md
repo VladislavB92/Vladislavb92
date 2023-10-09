@@ -1,7 +1,7 @@
 <h1 align="center">Hey, visitor, I'm Vlad!</h1>
 <h3 align="center">Welcome to my coding laboratory where occasional coding experiments are happening</h3>
 
-- I have extensive experience with Python, Django, Django REST, Flask, microservices, as well as with PHP and Laravel, Swift, JavaScript and TypeScript.
+- I have extensive experience with Python, Django, Django REST, Flask, microservices, React, Vue, as well as with PHP and Laravel, Swift, JavaScript and TypeScript.
 Also, my GitHub profile contains forks of some older Python libraries that were tailored and adapted for the newer Python (>3.9) and Django versions (4.x).
 
 
