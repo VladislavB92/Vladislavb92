@@ -14,8 +14,6 @@ Also, my GitHub profile contains forks of some older Python libraries that were 
    🟠 <a href="https://github.com/VladislavB92/InteliBank">"InteliBank"</a> is a e-banking system written in PHP using Laravel framework. It simulates real-time transactions between accounts, currency conversations with two-factor authentication. Implements Jetstream, Tailwind CSS, events, services, repositories, xml parsing and scheduled cron jobs.
 
    🟡 A <a href="https://github.com/VladislavB92/Quizzler-iOS">simple quizz-type game for iOS/iPadOS written natively with Swift</a>, guided by MVC pattern.
-  
-   🟢 A <a href="https://github.com/VladislavB92/RPSLS">"Tic-Tac-Toe"</a> game with a twist which is done exclusively in plain PHP, HTML and CSS
 
 - You can reach me at **vladislavb92@gmail.com**
 
